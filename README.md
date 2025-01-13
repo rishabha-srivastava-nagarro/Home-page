@@ -1,1 +1,4 @@
-# carousel in banner text
+- Assets and resources taken from the actual website
+- Video in banner section
+- carousel in banner text
+- Header section done (Responsive layout is pending)

@@ -212,3 +212,35 @@ ul#primary-menu > li:hover::after {
     font-weight: 500;
     font-size: 90px;
 }
+
+.main-search{
+    width: 560px;
+    margin-top: 30px;
+    transform: translate(-7%, 0%);
+}
+
+
+.main-search .mic-icon{
+    color: #656565;
+    position: absolute;
+    z-index: 10;
+    font-size: 22px;
+    left: 10px;
+    top: 6px;
+}
+
+.main-search .center-search{
+    color: #656565;
+    position: absolute;
+    z-index: 10;
+    font-size: 22px;
+    right: 10px;
+    top: 6px;
+}
+
+.main-search input {
+    height: 50px;
+    width: 100%;
+    padding: 0px 40px;
+    border-radius: 8px;
+}
