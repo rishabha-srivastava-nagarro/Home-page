@@ -1,0 +1,1 @@
+# carousel in banner text
