@@ -244,3 +244,71 @@ ul#primary-menu > li:hover::after {
     padding: 0px 40px;
     border-radius: 8px;
 }
+
+.check-pay{
+    background-color: #F9FAFC;
+    height: 500px;
+}
+
+.check-pay .home-section-title {
+    color: #3B3F54;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 0;
+    padding-top: 25px;
+}
+
+.check-pay .home-section-desc {
+    color: #3a3f57;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1.6;
+    font-size: 18px;
+    margin-top:18px;
+}
+
+.payment-tabs > ul > li {
+    width : 200px;
+}
+
+.payment-tabs > ul > li:hover {
+    width : 200px;
+}
+
+.payment-tabs > ul > li > a {
+    color: #3B3F54;
+    border-bottom: 4px solid transparent;
+}
+
+.payment-tabs > ul > li > a:hover {
+    color: #3B3F54;
+    border-bottom: 4px solid #ccc;
+}
+
+.payment-tabs > ul > li > a.active {
+    color: #3B3F54;
+    border-bottom: 4px solid #3c3f52;
+}
+
+
+/** Media Queries**/
+
+/* X-Small devices (portrait phones, less than 576px)
+ No media query for `xs` since this is the default in Bootstrap*/
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }
