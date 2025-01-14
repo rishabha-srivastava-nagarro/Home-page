@@ -4,9 +4,11 @@
 - Jquery
 - HTML, Css & Javascript
 
-# Work in progress
+# Features
 - Assets and resources taken from the actual website
 - Video in banner section
-- carousel in banner text
-- Header section done (Responsive layout is pending)
-- started on check and pay section
+- Play / Pause video using js
+- automatic carousel in banner text
+- check & pay tabs working with content
+- Made custom tab navigation for Making Dubai more everyday section
+- Flip header theme on page scroll
